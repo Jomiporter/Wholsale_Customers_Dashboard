@@ -1,4 +1,7 @@
-![Project Banner](github_banner.png)
+<p align="center">
+  <img src="github_banner.png" alt="Wholesale Customers Dashboard Banner" width="800" />
+</p>
+
 # Wholesale_Customers_Dashboard
 Customer segmentation and sales analysis project using Excel
 This project analyzes customer purchasing behaviour using the [Wholesale Customers Dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers) from the UCI Machine Learning Repository.
