@@ -108,7 +108,7 @@ The data used in this project is the [Wholesale Customers Dataset](https://archi
 ### Retail Slicer Selection
 ![Retail_Slicer](Retail_Slicer_Selection.png)
 
-### Dashboard WWireframe
+### Dashboard Wireframe
 ![Wireframe](Dashboard_Wireframe.png)
 
 ---
