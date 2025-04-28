@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner.png" alt="Wholesale Customers Dashboard Banner" width="1000" height="333" />
+  <img src="github_banner.png" alt="Wholesale Customers Dashboard Banner" width="800" height="333" />
 </p>
 
 # Wholesale_Customers_Dashboard
